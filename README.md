@@ -34,7 +34,7 @@ Below is an overview of my primary skills and their approximate proficiency leve
 
 Here are some of the key projects residing in this repository that demonstrate my capabilities:
 
-### 1. **[Distributed Embedded Health Monitor (DEHM)](https://github.com/DrF0G3J3/Distributed-Embedded-Health-Monitor)**
+### 1. **[Distributed Embedded Health Monitor (DEHM)](https://github.com/F0G3J3/Distributed-Embedded-Health-Monitor)**
 **(C++, Python, HTML, CSS, JavaScript, SQLite)**
 
 A sophisticated, real-time monitoring system for **ESP32** devices. This project showcases a full-stack approach:
@@ -43,7 +43,7 @@ A sophisticated, real-time monitoring system for **ESP32** devices. This project
 * **Web Frontend (HTML/CSS/JS with Chart.js):** A modern, responsive dashboard that fetches live and historical data from the backend, displaying it through dynamic charts and detailed tables.
 * **Key Features:** Real-time data visualization, historical data logging, multi-device support readiness, and **OTA (Over-The-Air) firmware updates** for the ESP32.
 
-### 2. **[WinProcessView: Windows Internals Analyzer](https://github.com/DrF0G3J3/WinProcessView)**
+### 2. **[WinProcessView: Windows Internals Analyzer](https://github.com/F0G3J3/WinProcessView)**
 **(C Language, Win32 API)**
 
 A powerful command-line utility for deeply inspecting **Windows operating system internals**. This project highlights my proficiency in low-level system programming:
@@ -51,7 +51,7 @@ A powerful command-line utility for deeply inspecting **Windows operating system
 * **Techniques:** Leverages core **Win32 API** calls (`CreateToolhelp32Snapshot`, `Process32First`, `Module32First`, `Thread32First`, `GetModuleFileNameEx`) for direct interaction with the Windows kernel.
 * **Utility:** An invaluable tool for system diagnostics, security research, and understanding the execution flow within Windows.
 
-### 3. **[DorkCraft: Advanced Dork Builder](https://github.com/DrF0G3J3/DorkCraft)**
+### 3. **[DorkCraft: Advanced Dork Builder](https://github.com/F0G3J3/DorkCraft)**
 **(HTML, CSS, JavaScript)**
 
 A sleek and intuitive client-side web tool designed to simplify the creation of advanced search engine dorks.
