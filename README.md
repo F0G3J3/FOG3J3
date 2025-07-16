@@ -3,7 +3,9 @@
 ---
 
 ## 👨‍💻 About Me
-
+<p align="center">
+  <img src="assets/my_logo.png" alt="Dr.exnon Logo" width="200"/>
+</p>
 Hello there! I'm **Dr.exnon**, an **Embedded Developer** with a passion for diving deep into the intricacies of hardware and software. My expertise lies in crafting robust and efficient solutions for embedded systems, ranging from low-level microcontroller programming to building complex monitoring tools and exploring system internals.
 
 This GitHub repository is a showcase of my personal projects, experiments, and contributions, reflecting my journey and continuous learning in the vast world of technology. Here, you'll find a blend of embedded development, system analysis, web tools, mobile applications, and more!
